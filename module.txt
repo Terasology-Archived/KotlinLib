@@ -1,0 +1,9 @@
+{
+	"id"                : "KotlinLib",
+	"version"           : "1.0.1-SNAPSHOT",
+	"author"            : "Max Borsch",
+	"displayName"       : "Kotlin Runtime Library Module",
+	"description"       : "Library module that supplies the Kotlin runtime library. See www.kotlinlang.org for more information.",
+	"dependencies"      : [],
+	"isServerSideOnly"  : false
+}
